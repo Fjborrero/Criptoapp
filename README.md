@@ -43,7 +43,7 @@ Ya con los datos separados se busca graficar esos valores para visializar el com
 
 2. Clona el repositorio: 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Fjborrero/Criptoapp.git
 ```
 
 3. Ve a la direccion del repositorio.
